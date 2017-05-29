@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7aa99f6f4e5109b4a86283b97e1acb6c
+timeCreated: 1493047686
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Samsung InterFace
+  fontNames:
+  - Samsung InterFace
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
