@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47bb2ba3c95bf6c4e9073db14ebce543
+timeCreated: 1496166010
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clear Sans Light
+  fontNames:
+  - Clear Sans Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

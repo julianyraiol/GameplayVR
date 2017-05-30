@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 475de0581424a6c45899b65b24d4c103
+timeCreated: 1496166074
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oculus Sans Scr
+  fontNames:
+  - Oculus Sans Scr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 27cbfb33207cd8744b2296f0dfa99c92, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
