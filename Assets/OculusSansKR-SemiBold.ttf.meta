@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fd3b61ffdb3c64a4ba44b41ffeaeca97
+timeCreated: 1496623119
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oculus Sans KR
+  fontNames:
+  - Oculus Sans KR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21fe9c8ba95cd7d418886a6a3aa58a2f, type: 3}
+  - {fileID: 12800000, guid: 059b2b1caeb74064e95b5ce4dc004e7f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
